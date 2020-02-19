@@ -1,6 +1,10 @@
 # Rickad & Jonas React + nodeJS
 Rickard och jonas försöker göra en dålig react-app
 
+För att använda
+Klona repo
+npm install
+
 React kommandon.
 1. Installera nytt projekt = "npx create-react-app ." ('.' för att säga att det är denna mapp).
 2.  npm start = sätt igång.
